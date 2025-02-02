@@ -1,7 +1,7 @@
 ## **Contact Information**  
 
+My name is Teamr Yheys And i am a Basically flutter Developer and familiar with other languages .
 If you have any questions, suggestions, or just want to connect, feel free to reach out: 
-My name is Teamr Yheys And i am a Basically flutter Developer and Familiar with other languages .if you want to reach me out ,here are my contact information
 - **Email**: miraone59@example.com
 - Phone Number: 09 - 21 - 88 - 91 - 57
 - **LinkedIn**: https://www.linkedin.com/in/ teamr-yheys-440166335 
